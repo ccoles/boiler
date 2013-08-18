@@ -4,12 +4,7 @@
 create an HTML 5 Boiler plate with one command
 
 ## Getting Started
-Install the module with: `npm install Boiler`
-
-```javascript
-var Boiler = require('Boiler');
-Boiler.awesome(); // "awesome"
-```
+Install the module with: `npm install html5boiler -g`
 
 ## Documentation
 this is a super simple module, it allows you to quickly create a new project with the awesome html5 boiler plate as a starting point.
