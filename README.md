@@ -1,5 +1,5 @@
 
-# Boiler
+# HTML 5 Boiler
 
 create an HTML 5 Boiler plate with one command
 
