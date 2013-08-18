@@ -1,7 +1,7 @@
 {
   "name": "html5boiler",
   "description": "create a boiler plate with one command",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "homepage": "https://github.com/ccoles/boiler",
   "author": {
     "name": "Craig Coles",
