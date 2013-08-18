@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Boiler
 
 create a boiler plate with one command
@@ -25,3 +26,9 @@ _(Nothing yet)_
 ## License
 Copyright (c) 2013 Craig Coles  
 Licensed under the MIT license.
+=======
+boiler
+======
+
+create an html5 boiler plate project with one command
+>>>>>>> 0dfb84db5c35c005b3986c64107d075a3f0bc1d5
