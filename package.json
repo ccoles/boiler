@@ -1,0 +1,42 @@
+{
+  "name": "Boiler",
+  "description": "create a boiler plate with one command",
+  "version": "0.0.1",
+  "homepage": "https://github.com/ccoles/boiler",
+  "author": {
+    "name": "Craig Coles",
+    "email": "ccoles@gmail.com",
+    "url": "http://carbonated.ca"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ccoles/boiler"
+  },
+  "bugs": {
+    "url": "https://github.com/ccoles/boiler/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/ccoles/boiler/blob/master/LICENSE-MIT"
+    }
+  ],
+  "main": "lib/Boiler",
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "scripts": {
+    "test": "grunt nodeunit"
+  },
+  "devDependencies": {
+    "grunt-contrib-jshint": "~0.6.0",
+    "grunt-contrib-nodeunit": "~0.2.0",
+    "grunt-contrib-watch": "~0.4.0",
+    "grunt": "~0.4.1"
+  },
+  "keywords": [],
+  "preferGlobal":"true",
+  "bin": {
+    "boil":"lib/Boiler.js"
+  }
+}
