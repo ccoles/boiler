@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Boiler
 
 create a boiler plate with one command
