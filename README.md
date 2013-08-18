@@ -31,4 +31,4 @@ boiler
 ======
 
 create an html5 boiler plate project with one command
->>>>>>> 0dfb84db5c35c005b3986c64107d075a3f0bc1d5
+
