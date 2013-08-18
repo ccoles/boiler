@@ -1,7 +1,7 @@
 {
   "name": "html5boiler",
   "description": "create a boiler plate with one command",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "homepage": "https://github.com/ccoles/boiler",
   "author": {
     "name": "Craig Coles",
@@ -34,7 +34,7 @@
     "grunt-contrib-watch": "~0.4.0",
     "grunt": "~0.4.1"
   },
-  "keywords": ['html','html5','boiler','boilerplate','plate','html5boilerplate'],
+  "keywords": ["html","html5","boiler","boilerplate","plate","html5boilerplate"],
   "preferGlobal":"true",
   "bin": {
     "boil":"lib/Boiler.js"
