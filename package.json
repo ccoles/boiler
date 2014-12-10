@@ -29,14 +29,22 @@
     "test": "grunt nodeunit"
   },
   "devDependencies": {
+    "commander": "^2.5.0",
+    "grunt": "~0.4.1",
     "grunt-contrib-jshint": "~0.6.0",
     "grunt-contrib-nodeunit": "~0.2.0",
-    "grunt-contrib-watch": "~0.4.0",
-    "grunt": "~0.4.1"
+    "grunt-contrib-watch": "~0.4.0"
   },
-  "keywords": ["html","html5","boiler","boilerplate","plate","html5boilerplate"],
-  "preferGlobal":"true",
+  "keywords": [
+    "html",
+    "html5",
+    "boiler",
+    "boilerplate",
+    "plate",
+    "html5boilerplate"
+  ],
+  "preferGlobal": "true",
   "bin": {
-    "boil":"lib/Boiler.js"
+    "boil": "lib/Boiler.js"
   }
 }
