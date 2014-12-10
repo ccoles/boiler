@@ -1,7 +1,7 @@
 {
   "name": "html5boiler",
   "description": "create a boiler plate with one command",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "homepage": "https://github.com/ccoles/boiler",
   "author": {
     "name": "Craig Coles",
@@ -29,7 +29,6 @@
     "test": "grunt nodeunit"
   },
   "devDependencies": {
-    "commander": "^2.5.0",
     "grunt": "~0.4.1",
     "grunt-contrib-jshint": "~0.6.0",
     "grunt-contrib-nodeunit": "~0.2.0",
@@ -46,5 +45,8 @@
   "preferGlobal": "true",
   "bin": {
     "boil": "lib/Boiler.js"
+  },
+  "dependencies": {
+    "commander": "^2.5.0"
   }
 }
